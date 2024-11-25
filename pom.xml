@@ -12,6 +12,7 @@
         <module>config_service</module>
         <module>auth_service</module>
         <module>discovery_service</module>
+        <module>gateway_service</module>
     </modules>
 
     <properties>

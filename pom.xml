@@ -11,6 +11,7 @@
     <modules>
         <module>config_service</module>
         <module>auth_service</module>
+        <module>discovery_service</module>
     </modules>
 
     <properties>

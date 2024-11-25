@@ -13,6 +13,8 @@
         <module>auth_service</module>
         <module>discovery_service</module>
         <module>gateway_service</module>
+        <module>event_service</module>
+        <module>geolocalisation_service</module>
     </modules>
 
     <properties>
